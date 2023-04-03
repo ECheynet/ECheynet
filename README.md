@@ -4,7 +4,7 @@
 
 I am now an associate professor at the Geophysical Institute and the bergen Offshore wind centre (BOW) at the University of Bergen (UiB). 
 
-## PhD positions available
+### PhD positions available
 
 [phd-research-fellow-in-wind-engineering at UiB](https://www.jobbnorge.no/en/available-jobs/job/243357/phd-research-fellow-in-wind-engineering)
 
