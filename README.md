@@ -1,8 +1,3 @@
-<a href="https://www.buymeacoffee.com/echeynet" target="_blank">
-<img src="https://raw.githubusercontent.com/ECheynet/WindEngineeringUiS.github.io/master/6821-kanelbulle.png" alt="Buy Me A Coffee" style="height: 40px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ><img src="https://dabuttonfactory.com/button.png?t=Buy+me+a+bolle&f=Open+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=f6b26b" alt="Buy Me A Coffee" style="height: 40px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ><img src="https://raw.githubusercontent.com/ECheynet/WindEngineeringUiS.github.io/master/6821-kanelbulle.png" alt="Buy Me A Coffee" style="height: 40px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >    
-</a>
-
-
 ## Current status
 
 I am now an associate professor at the Geophysical Institute and the bergen Offshore wind centre (BOW) at the University of Bergen (UiB). 
@@ -25,6 +20,11 @@ I am now an associate professor at the Geophysical Institute and the bergen Offs
 ### Lidar remote sensing of wind: 
     - Can scanning Doppler wind lidars measure turbulence?.
     - Study of the flow around bridges with short-range and long-range wind lidar instruments.
+
+<a href="https://www.buymeacoffee.com/echeynet" target="_blank">
+<img src="https://raw.githubusercontent.com/ECheynet/WindEngineeringUiS.github.io/master/6821-kanelbulle.png" alt="Buy Me A Coffee" style="height: 40px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ><img src="https://dabuttonfactory.com/button.png?t=Buy+me+a+bolle&f=Open+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=f6b26b" alt="Buy Me A Coffee" style="height: 40px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ><img src="https://raw.githubusercontent.com/ECheynet/WindEngineeringUiS.github.io/master/6821-kanelbulle.png" alt="Buy Me A Coffee" style="height: 40px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >    
+</a>
+
 
 <!---
 ECheynet/ECheynet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
